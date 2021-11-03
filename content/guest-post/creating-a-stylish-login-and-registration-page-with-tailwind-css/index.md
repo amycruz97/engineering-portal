@@ -10,6 +10,8 @@ description: "In this article we discussed how to create stylish login and signu
 Tailwind CSS has recently gained a lot of popularity from front-end developers around the globe. 
 The utility-first CSS framework enables developers to build a unique user interface.
 
+> **NOTE:** You can find the code for this project [here on Github](https://github.com/amycruz97/tailwind-loginradius)
+
 ## What is Tailwind CSS?
 
 According to the [official documentation](https://tailwindcss.com/), Tailwind CSS is a utility-first CSS framework for rapidly building custom user interfaces. With tailwind CSS, you can write inline styling and build an awesome user interface without leaving your HTML code and writing a single line of CSS.
